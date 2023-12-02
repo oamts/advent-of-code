@@ -25,6 +25,7 @@ Here, you'll find my solutions to the Advent of Code challenges. Each day's chal
   <summary>2023</summary>
 
 - [x] Day 1
+- [x] Day 2
 </details>
 
 
