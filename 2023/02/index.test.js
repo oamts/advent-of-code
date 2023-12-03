@@ -55,7 +55,7 @@ describe('A', () => {
   });
 });
 
-describe('A', () => {
+describe('B', () => {
   it('should return the fewest number of cubes of each color possible in a group of sets', () => {
     assert.deepStrictEqual(
       fewestNumberOfCubes(' 3 blue, 4 red; 1 red, 2 green, 6 blue; 2 green'),
