@@ -13,3 +13,10 @@ export const readFile = async (filePath) => {
 
   return lines;
 };
+
+/**
+ * @param {number[]}  arr
+ */
+export const multiplyElements = (arr) => {
+  return Object.values(arr).reduce((a, b) => a * b, 1);
+};
