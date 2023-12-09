@@ -29,6 +29,7 @@ Here, you'll find my solutions to the Advent of Code challenges. Each day's chal
 - [x] Day 3 (1/2)
 - [x] Day 4 (1/2)
 - [x] Day 6
+- [x] Day 8
 </details>
 
 
